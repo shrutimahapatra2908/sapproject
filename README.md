@@ -267,4 +267,3 @@ Module Focus: SAP MM integrated with SAP FI
 
 ---
 
-> *"What SAP does for procurement is replace uncertainty with structure. That automatic connection between MM and FI is what makes SAP more than a digital filing cabinet — it makes it a genuinely different way of running a business."*
